@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from datetime import datetime, timedelta
 
+# Test der Zugriffsrechte für Mäxlein
+
 # Liste der Kryptowährungen
 cryptocurrencies = ['XRPUSDT']
 
